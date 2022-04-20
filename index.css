@@ -60,6 +60,7 @@
   position: relative;
   margin: 20px;
   margin-top: 10px;
+  float: left;
 }
 
 /* Hide the images by default */
@@ -147,8 +148,8 @@
 }
 
 .home {
-  width: 70%;
-  float: right;
+  max-width: 70%;
+  float: left;
   margin-bottom: 100px;
   margin-top: 10px;
   margin-left: 10px;
