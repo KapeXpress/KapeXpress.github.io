@@ -2,7 +2,6 @@
 .topnav {
   background-image: url(https://www.pngmagic.com/product_images/red-abstract-background-images-hd.jpg);
   overflow: hidden;
-  
 }
 
 /* Style the links inside the navigation bar */
@@ -26,8 +25,6 @@
   background-color: #04AA6D;
   color: white;
 }
-
-* {box-sizing:border-box}
 
 
 .banner {
