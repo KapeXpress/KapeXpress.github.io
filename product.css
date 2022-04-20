@@ -37,6 +37,17 @@
   margin-bottom: 50px;
 }
 
+.product1 {
+  max-width: 80%;
+  margin-left: 240px;
+}
+
+.product1 h2 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
   .card1 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
