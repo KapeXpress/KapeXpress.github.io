@@ -46,8 +46,8 @@
  
 }
 
-.container ifraME {
-  max-width: 80%;
+.container iframe {
+  max-width: 60%;
 }
 
 * {box-sizing:border-box}
