@@ -55,6 +55,7 @@
 /* Slideshow container */
 .slideshow-container {
   max-width: 500px;
+  width: 250px;
   position: relative;
   margin: auto;
   margin-left: 930px;
@@ -139,3 +140,318 @@
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.line hr {
+  height: 2px;
+  margin-bottom: 100px;
+}
+
+.home {
+  width: 75%;
+  float: right;
+  margin-bottom: 100px;
+  margin-top: 10px;
+}
+
+.home img {
+  width: 20%;
+  margin-top: 100px;
+  float: left;
+}
+
+.intense {
+  margin-top: 50px;
+  float: left;
+}
+
+.intense h1 {
+  margin-top: 50px;
+}
+
+.intense p{
+  font-family: arial;
+  font-size: 15px;
+  float: left;
+}
+
+.made {
+  float: left;
+  width: 20%;
+}
+
+.made h3 {
+  font-family: arial;
+}
+
+.made p {
+  font-family: arial;
+}
+
+.good {
+  float: left;
+  margin-left: 100px;
+  width: 20%;
+}
+
+.good h3 {
+  font-family: arial;
+}
+
+.good p {
+  font-family: arial;
+}
+
+.flavor {
+  float: left;
+  margin-left: 100px;
+  width: 20%;
+}
+
+.flavor h3 {
+  font-family: arial;
+}
+
+.flavor p {
+  font-family: arial;
+}
+
+
+.ice {
+  float: right;
+  width: 20%;
+  margin-bottom: 100px;
+  margin-right: 50px;
+}
+
+.ice h3 {
+  font-family: arial;
+}
+
+.ice p {
+  font-family: arial;
+  text-align: justify;
+}
+
+.mocha {
+  float: left;
+  margin-left: 100px;
+  width: 20%;
+}
+
+.mocha h3 {
+  font-family: arial;
+}
+
+.mocha p {
+  font-family: arial;
+}
+
+.roast {
+  float: left;
+  margin-left: 70px;
+  width: 20%;
+  margin-right: ;
+}
+
+.roast h3 {
+  font-family: arial;
+}
+
+.roast p {
+  font-family: arial;
+}
+
+
+.line2 hr {
+  height: 2px;
+  margin-top: 100px;
+}
+
+
+.pictures {
+  width: 75%;
+  float: left;
+  margin-top: 20px;
+}
+
+.pic1 img {
+  float: left;
+  width: 20%;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: 110px;
+}
+
+.pic2 img {
+  float: left;
+  width: 20%;
+  margin-right: 20px;
+  height: 200px;
+}
+
+.pic3 img {
+  float: left;
+  width: 20%;
+  margin-right: 20px;
+  height: 200px;
+}
+
+.pic4 img {
+  float: left;
+  width: 20%;
+  margin-right: 20px;
+  height: 200px;
+}
+
+.nescafe {
+  width: 75%;
+  float: left;
+  margin-top: 20px;
+}
+
+.nescafe img {
+  width: 84%;
+  margin-left: 110px;
+}
+
+.marquee p {
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+    text-align: center;
+    padding: 3px;
+    border-style: solid;
+    background-color: #141414;
+    border-color: #141414;
+    color: white;
+    height: 120px;
+    margin-top: 20px;
+    float: left;
+    width: 100%;
+  }
+
+.tac {
+  float: left;
+  color: white;
+  margin-left: 200px;
+
+
+}
+
+.tac a {
+  color: white;
+}
+
+.p {
+  float: left;
+  color: white;
+  margin-left: 545px;
+  
+
+}
+
+.p a {
+  color: white;
+}
+
+.co {
+  float: right;
+  color: white;
+  margin-right: 245px;
+
+
+}
+
+.co a {
+  color: white;
+}
+
+.soc {
+   text-align: center;
+    padding: 3px;
+    border-style: solid;
+    background-color: #141414;
+    border-color: #141414;
+    color: white;
+    height: 60px;
+    float: left;
+    width: 100%;
+}
+
+.fb i{
+  color: white;
+  width: 10px;
+  height: 10px;
+  float: left;
+  margin-right: 40px;
+  margin-left: 800px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.mg i{
+  color: white;
+  width: 10px;
+  height: 10px;
+  float: left;
+  margin-right: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.tw i{
+  color: white;
+  width: 10px;
+  height: 10px;
+  float: left;
+  margin-right: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.ig i{
+  color: white;
+  width: 10px;
+  height: 10px;
+  float: left;
+  margin-right: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.tk i{
+  color: white;
+  width: 10px;
+  height: 10px;
+  float: left;
+  margin-right: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.yt i{
+  color: white;
+  width: 10px;
+  height: 10px;
+  float: left;
+  margin-right: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
