@@ -27,37 +27,4 @@
 }
 
 
-.banner {
-  text-align: center;
-  font-family: TAHOMA;
-  color: white;
-  border-style: solid;
-  border-color: #E80C7A;
-  text-shadow: 0 0 10px darkred;
-
-  background-image: url(https://www.pngmagic.com/product_images/red-abstract-background-images-hd.jpg);
-}
-
-.banner img {
-  float: right;
-  max-width: 750px;
-  max-height: 750px;
-  min-width: 250px;
-  min-height: 250px;
-}
-
-.banner h1 {
-  text-decoration: overline;
-  font-size: calc(1rem + 1vw);
-  margin-top: 1px;
-  margin-bottom: 250px;
-  font-family: arial black;
-
-}
-
-@media screen and (max-width: 768px) {
-  .banner {
-    padding-top: 5vh;
-  }
-}
 
