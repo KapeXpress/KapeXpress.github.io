@@ -59,6 +59,7 @@
   width: 500px;
   margin-top: 10px;
   margin-left: 150px;
+  margin-right: 700px;
   float: left;
 }
 
@@ -155,16 +156,14 @@
   margin-left: 10px;
 }
 
-.home1 img {
-  width: 20%;
-  margin-top: 100px;
+.home img {
   float: left;
 }
 
 .intense {
   margin-top: 50px;
   float: left;
-  max-width: 20%;
+  max-width: 100%;
 }
 
 .intense h1 {
@@ -179,6 +178,7 @@
 
 .made {
   float: left;
+  margin-top: 70px;
   width: 20%;
 }
 
@@ -220,7 +220,7 @@
 
 
 .ice {
-  float: right;
+  float: left;
   width: 20%;
   margin-bottom: 100px;
   margin-right: 50px;
@@ -237,7 +237,7 @@
 
 .mocha {
   float: left;
-  margin-left: 100px;
+  margin-right: 50px;
   width: 20%;
 }
 
@@ -251,7 +251,7 @@
 
 .roast {
   float: left;
-  margin-left: 70px;
+  margin-left: 50px;
   width: 20%;
   margin-right: ;
 }
