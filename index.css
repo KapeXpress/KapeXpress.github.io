@@ -59,7 +59,7 @@
   width: 500px;
   margin-top: 10px;
   margin-left: 150px;
-  margin-right: 700px;
+  
   float: left;
 }
 
@@ -142,18 +142,11 @@
   to {opacity: 1}
 }
 
-.line  {
-  height: 2px;
-  margin-bottom: 100px;
-  float: left;
-}
 
-.home1 {
-  max-width: 70%;
+.home {
+  max-width: 75%;
   float: left;
-  margin-bottom: 100px;
-  margin-top: 10px;
-  margin-left: 10px;
+  margin-top: 200px;
 }
 
 .home img {
@@ -161,182 +154,53 @@
 }
 
 .intense {
-  margin-top: 50px;
   float: left;
-  max-width: 100%;
+  max-width: 70%;
+  margin-left: 20px;
 }
 
-.intense h1 {
-  margin-top: 50px;
-}
-
-.intense p{
-  font-family: arial;
-  font-size: 15px;
+.inf {
+  max-width: 70%;
   float: left;
 }
 
-.made {
-  float: left;
-  margin-top: 70px;
-  width: 20%;
-}
-
-.made h3 {
-  font-family: arial;
-}
-
-.made p {
-  font-family: arial;
-}
-
-.good {
-  float: left;
-  margin-left: 100px;
-  width: 20%;
-}
-
-.good h3 {
-  font-family: arial;
-}
-
-.good p {
-  font-family: arial;
-}
-
-.flavor {
-  float: left;
-  margin-left: 100px;
-  width: 20%;
-}
-
-.flavor h3 {
-  font-family: arial;
-}
-
-.flavor p {
-  font-family: arial;
-}
-
-
-.ice {
-  float: left;
-  width: 20%;
-  margin-bottom: 100px;
-  margin-right: 50px;
-}
-
-.ice h3 {
-  font-family: arial;
-}
-
-.ice p {
-  font-family: arial;
-  text-align: justify;
-}
-
-.mocha {
-  float: left;
-  margin-right: 50px;
-  width: 20%;
-}
-
-.mocha h3 {
-  font-family: arial;
-}
-
-.mocha p {
-  font-family: arial;
-}
-
-.roast {
-  float: left;
+.inf1 {
+  max-width: 25%;
+  margin-right: 25px;
   margin-left: 50px;
-  width: 20%;
-  margin-right: ;
+  float: left;
+  
+
 }
 
-.roast h3 {
-  font-family: arial;
+.home1 {
+  max-width: 70%;
+  float: left;
 }
 
-.roast p {
-  font-family: arial;
+.prod {
+  max-width: 25%;
+  margin-right: 25px;
+  margin-left: 50px;
+  float: left;
 }
-
-
-.line2 hr {
-  height: 2px;
-  margin-top: 100px;
-}
-
 
 .pictures {
-  width: 70%;
+  max-width: 70%;
   float: left;
-  margin-top: 20px;
 }
 
-.pic1 img {
+.pic img {
+  max-width: 23%;
+  margin-right: 10px;
   float: left;
-  width: 17.5%;
-  height: 200px;
-  margin-right: 20px;
-  margin-left: 110px;
+  margin-left: 20px;
+  margin-bottom: 10px;
 }
 
-.pic2 img {
-  float: left;
-  width: 17.5%;
-  margin-right: 20px;
-  height: 200px;
+.nescafe img{
+  margin-left: 20px;
 }
-
-.pic3 img {
-  float: left;
-  width: 17.5%;
-  margin-right: 20px;
-  height: 200px;
-}
-
-.pic4 img {
-  float: left;
-  width: 17.5%;
-  margin-right: 20px;
-  height: 200px;
-}
-
-.nescafe {
-  width: 75%;
-  float: left;
-  margin-top: 20px;
-}
-
-.nescafe img {
-  width: 70%;
-  margin-left: 110px;
-}
-
-.marquee p {
-  color: white;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .footer {
     text-align: center;
