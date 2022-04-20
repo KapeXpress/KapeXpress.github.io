@@ -45,6 +45,8 @@
   float: right;
   max-width: 750px;
   max-height: 750px;
+  min-width: 250px;
+  min-height: 250px;
 }
 
 .banner h1 {
