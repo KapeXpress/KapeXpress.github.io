@@ -1,12 +1,3 @@
-.body {
-  position: -webkit;
-}
-
-
-
-
-
-
 /* Add a black background color to the top navigation */
 .topnav {
   background-image: url(https://www.pngmagic.com/product_images/red-abstract-background-images-hd.jpg);
@@ -63,5 +54,11 @@
   margin-bottom: 250px;
   font-family: arial black;
 
+}
+
+@media screen and (max-width: 768px) {
+  .banner {
+    padding-top: 5vh;
+  }
 }
 
