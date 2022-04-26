@@ -29,6 +29,7 @@
 .product {
   max-width: 80%;
   margin-left: 240px;
+  max-height: 5000px;
 }
 
 .product h2 {
@@ -39,7 +40,7 @@
 
 .product1 {
   max-width: 80%;
-  margin-left: 240px;
+  margin-top: 5000px;
 }
 
 .product1 h2 {
