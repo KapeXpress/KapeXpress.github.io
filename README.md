@@ -11,7 +11,7 @@ Please avoid sharing links to other groups since the link was monitored and the 
 
 
 Group Members's Email:
-jeric.canedo1084@gmail.com
+<p>jeric.canedo1084@gmail.com</p>
 cheskacaneda@gmail.com
 samandreusy@gmail.com
 gabuteronormaejoy@gmail.com
