@@ -9,6 +9,9 @@ Please avoid sharing links to other groups since the link was monitored and the 
 
 
 
+<br>
+<br>
+<br>
 
 <p>Group Members's Email:</p>
 <p>jeric.canedo1084@gmail.com</p>
@@ -25,13 +28,22 @@ Please avoid sharing links to other groups since the link was monitored and the 
 <p>mengayaguelo@gmail.com</p>
 <p>james1905lelis@gmail.com</p>
 
+<br>
+<br>
+<br>
+
 <p>Email other than this will reflect on the GitHub Dashboard and the owner will be notified ONCE CLICKED.</p>
 
+<br>
+<br>
+<br>
 
 
 <p>Please keep this file as a secret within GROUP 3!</p>
 
-
+<br>
+<br>
+<br>
 
 <p>Aguelo, Hmieanne N.</p>
 <p>Amoren, Amirah A. </p>
