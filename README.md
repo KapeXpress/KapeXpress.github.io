@@ -10,7 +10,7 @@ Please avoid sharing links to other groups since the link was monitored and the 
 
 
 
-Group Members's Email:
+<p>Group Members's Email:</p>
 <p>jeric.canedo1084@gmail.com</p>
 <p>cheskacaneda@gmail.com</p>
 <p>samandreusy@gmail.com</p>
@@ -25,11 +25,11 @@ Group Members's Email:
 <p>mengayaguelo@gmail.com</p>
 <p>james1905lelis@gmail.com</p>
 
-Email other than this will reflect on the GitHub Dashboard and the owner will be notified ONCE CLICKED.
+<p>Email other than this will reflect on the GitHub Dashboard and the owner will be notified ONCE CLICKED.</p>
 
 
 
-Please keep this file as a secret within GROUP 3!
+<p>Please keep this file as a secret within GROUP 3!</p>
 
 
 
