@@ -12,18 +12,18 @@ Please avoid sharing links to other groups since the link was monitored and the 
 
 Group Members's Email:
 <p>jeric.canedo1084@gmail.com</p>
-cheskacaneda@gmail.com
-samandreusy@gmail.com
-gabuteronormaejoy@gmail.com
-saskiazulieta05@gmail.com
-amorenfaaol@gmail.com
-jao22we@gmail.com
-garferiodanicamae12@gmail.com
-ashleelerog@gmail.com
-dnlbagnol@gmail.com
-1lysterpsalm.azaria@gmail.com
-mengayaguelo@gmail.com
-james1905lelis@gmail.com
+<p>cheskacaneda@gmail.com</p>
+<p>samandreusy@gmail.com</p>
+<p>gabuteronormaejoy@gmail.com</p>
+<p>saskiazulieta05@gmail.com</p>
+<p>amorenfaaol@gmail.com</p>
+<p>jao22we@gmail.com</p>
+<p>garferiodanicamae12@gmail.com</p>
+<p>ashleelerog@gmail.com</p>
+<p>dnlbagnol@gmail.com</p>
+<p>1lysterpsalm.azaria@gmail.com</p>
+<p>mengayaguelo@gmail.com</p>
+<p>james1905lelis@gmail.com</p>
 
 Email other than this will reflect on the GitHub Dashboard and the owner will be notified ONCE CLICKED.
 
@@ -33,19 +33,19 @@ Please keep this file as a secret within GROUP 3!
 
 
 
-Aguelo, Hmieanne N.
- Amoren, Amirah A. 
-Aniñon, Jan Wayne A. 
-Azaria, Lyster Psalm 
-Bagnol, Laurence Daniel E. 
-Cañeda, Cheska P. 
-Cañedo, Jeric B. 
-Gabutero, Normae Joy H 
-Garferio, Danica Mae S. 
-Lelis, James Lester E. 
-Lerog, Ashleee Kate L. 
-Ytac, Sam Andreus P. 
-Zulieta, Gezell Saskia M.
+<p>Aguelo, Hmieanne N.</p>
+<p>Amoren, Amirah A. </p>
+<p>Aniñon, Jan Wayne A. </p>
+<p>Azaria, Lyster Psalm </p>
+<p>Bagnol, Laurence Daniel E. </p>
+<p>Cañeda, Cheska P. </p>
+<p>Cañedo, Jeric B. </p>
+<p>Gabutero, Normae Joy H </p>
+<p>Garferio, Danica Mae S. </p>
+<p>Lelis, James Lester E. </p>
+<p>Lerog, Ashleee Kate L. </p>
+<p>Ytac, Sam Andreus P. </p>
+<p>Zulieta, Gezell Saskia M.</p>
 
 
 
