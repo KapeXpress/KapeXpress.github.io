@@ -11,7 +11,7 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 25px;
 }
 
 /* Change the color of links on hover */
@@ -26,9 +26,16 @@
   color: white;
 }
 
+
+@font-face {
+  font-family: 'Brush Script MT';
+  src: url(fonts/brush script mt kursiv.ttf);
+}
+
 .banner {
+
   text-align: center;
-  font-family: TAHOMA;
+  font-family: 'Lobster Two', cursive;                                      
   font-size: 120px;
   color: white;
   border-style: solid;
@@ -56,7 +63,7 @@
   background-color: #ec1c33;
   margin-top: 10px;
   float: left;
-  height: 2080px;
+  height: 2200px;
   max-width: 25%;
   
 }
