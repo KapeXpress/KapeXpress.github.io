@@ -30,7 +30,7 @@
     <h4 style="font-family: arial;"> Telephone #: <a href="tel:+2 222 22 2">2 222 22 2</a></h4>
     <h4 style="font-family: arial;"> Hmieanne Aguelo:</h4>
 
-    <h4>Reservations, Sales & Marketing Manager
+    <h4>Sales & Marketing Manager
 
     <h4>Phone/WhatsApp: <a href="tel:+639065845822">+639065845822</a></h4>
 
@@ -40,7 +40,7 @@
     <h4 style="font-family: tahoma; font-style: normal;"> For Payment and Refund, please contact: </h4>
     <h4 style="font-family: arial;"> Ashlee Kate Lerog:</h4>
 
-    <h4>Marketing Head, Senior Accountant</h4>
+    <h4>Marketing Head</h4>
 
     <h4>Phone/WhatsApp: <a href="tel:+639388644442">+639388644442</a></h4>
 
@@ -190,10 +190,10 @@
 
 
     <label for="lname">Mobile Number</label>
-    <input type="text" maxlength="10" pattern="\d{10}" placeholder="Mobile Number" title="Please remove the first 0 of your number" />
+    <input type="text" minlength="11" maxlength="11" pattern="[0][0-9]{10}" placeholder="Mobile Number" title="Please enter 11 digit number and start with 0" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"/>
 
     <label for="lname">Email</label>
-    <input type="text" id="email" name="email" placeholder="Email" required>
+    <input type="text" id="email" name="email" placeholder="Email" pattern=".+@gmail\.com" size="30" title="Please use a gmail account"required>
 
     <label for="subject">More Information</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
